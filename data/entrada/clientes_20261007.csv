@@ -1,0 +1,13 @@
+correlation_id,cliente,documento,email,monto,fecha
+COR-0001,Ana Torres,10203040,ana.torres@correo.com,150000.50,2026-10-01
+COR-0002,Luis Perez,20304050,luis.perez@correo.com,89000,2026-10-02
+COR-0003,Marta Gomez,30405060,,45000.75,2026-10-03
+COR-0001,Ana Torres,10203040,ana.torres@correo.com,150000.50,2026-10-01
+COR-0004,,40506070,carlos@correo.com,70000,2026-10-04
+COR-0005,Pedro Ruiz,ABC123,pedro@correo.com,12000,2026-10-05
+COR-0006,Sofia Diaz,50607080,sofia-correo.com,32000,2026-10-06
+COR-0007,Juan Mora,60708090,juan@correo.com,-500,2026-10-06
+COR-0008,Laura Rios,70809010,laura@correo.com,64000,2026-13-45
+,Diego Castro,80901020,diego@correo.com,51000,2026-10-07
+COR-0009,Elena Vega,90102030,elena@correo.com,99000.00
+COR-0010,Andres Lopez,11223344,andres@correo.com,120000,2026-10-07
